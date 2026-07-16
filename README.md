@@ -1,26 +1,32 @@
-## Oie! Me chamo Júlia Roos 🐱🌟
+# 👋 Hi! I'm Júlia Roos 🐱🌟
 
-- Estudante de Ciência da Computação | Computer Science Student
-- Resolução de Problemas | Problem Solver
-- Interesse em TI e Suporte ao Usuário | Technical Support Enthusiast
+- 💻 Computer Science Student
+- 🧩 Problem Solver
+- 🌎 Interested in IT, Technical Support, and Global Teams
 
-Bem-vindo(a)! 👋
+## Welcome!
 
-Este GitHub é onde documento minha evolução como estudante de Ciência da Computação. Aqui você encontrará projetos acadêmicos, implementações de estruturas de dados e outros estudos que fazem parte da minha formação.
+This GitHub is where I document my journey as a Computer Science student. Here you'll find academic projects, data structures implementations, programming exercises, and other studies that are part of my learning experience.
 
-Tenho interesse em tecnologia aplicada à resolução de problemas, suporte técnico. 
-Além da tecnologia, tenho interesse em ambientes colaborativos e multiculturais. Gosto da ideia de unir raciocínio lógico com comunicação, utilizando o inglês de forma prática no dia a dia e aprendendo continuamente com pessoas de diferentes culturas e contextos.
+I'm interested in using technology to solve problems and improve users' experiences through technical support and process optimization.
 
-### Tecnologias
+I also enjoy working in collaborative and multicultural environments. I believe that combining logical thinking with strong communication leads to better solutions, and I'm especially interested in joining global teams where I can use English in a practical way while learning from people with different backgrounds and cultures.
 
-- Canva
-- MS Office
-- Google Workspace
-- HTML
+## 🛠️ Technologies & Tools
+
+### Programming Languages
 - C
 - C++
-  
-  ##
+- HTML
+
+### Tools
+- Microsoft Office
+- Google Workspace
+- Canva
+
+📚 I'm continuously learning new technologies throughout my degree and adding new projects as I grow my skills.
+
+## 
  
 <div> 
   <a href="https://instagram.com/juliaroos6" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
